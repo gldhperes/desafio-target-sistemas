@@ -1,5 +1,5 @@
 ### QUESTAO 1
-´
+```python
 def fibonacci_sequence(limit):
 
     # 2 primeiros numeros da sequencia
@@ -28,11 +28,10 @@ if is_in_fibonacci(number_to_check):
     print(f"O número {number_to_check} pertence à sequência de Fibonacci.")
 else:
     print(f"O número {number_to_check} NÃO pertence à sequência de Fibonacci.")
-´
-
+```
 
 ### QUESTAO 2
-
+```python
 def verificar_letra_a(texto):
 
     quantidade = texto.lower().count('a')
@@ -45,6 +44,7 @@ def verificar_letra_a(texto):
 
 string_usuario = input("Informe uma string: ")
 verificar_letra_a(string_usuario)
+```
 
 ### QUESTAO 3
 Resposta: 77
