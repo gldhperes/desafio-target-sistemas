@@ -1,8 +1,8 @@
 ### QUESTAO 1
-
+´
 def fibonacci_sequence(limit):
 
-    # 2 primieors numeros da sequencia
+    # 2 primeiros numeros da sequencia
     sequence = [0, 1]
 
     # sequence[-1] é o ultimo numero da lista
@@ -28,7 +28,7 @@ if is_in_fibonacci(number_to_check):
     print(f"O número {number_to_check} pertence à sequência de Fibonacci.")
 else:
     print(f"O número {number_to_check} NÃO pertence à sequência de Fibonacci.")
-
+´
 
 
 ### QUESTAO 2
