@@ -1,6 +1,5 @@
-# ============================================
-# QUESTAO 1
-# ============================================
+### QUESTAO 1
+
 def fibonacci_sequence(limit):
 
     # 2 primieors numeros da sequencia
@@ -31,9 +30,9 @@ else:
     print(f"O número {number_to_check} NÃO pertence à sequência de Fibonacci.")
 
 
-# ============================================
-# QUESTAO 2
-# ============================================
+
+### QUESTAO 2
+
 def verificar_letra_a(texto):
 
     quantidade = texto.lower().count('a')
@@ -47,19 +46,14 @@ def verificar_letra_a(texto):
 string_usuario = input("Informe uma string: ")
 verificar_letra_a(string_usuario)
 
-# ============================================
-# QUESTAO 3
-# ============================================
+### QUESTAO 3
 Resposta: 77
 
-# ============================================
-# QUESTAO 4
-# ============================================
-4)  a)9  b)128  c)49   d)100   e)13    f)20
+### QUESTAO 4
+a)9   b)128  c)49   d)100   e)13   f)20
 
-# ============================================
-# QUESTAO 5
-# ============================================
+
+### QUESTAO 5
 Primeiro, você liga o interruptor 1 por 5 minutos e depois desliga. Em seguida, liga o interruptor 2 e vai direto para as salas.
 
 Se a lâmpada estiver acesa, ela é do interruptor 2.
